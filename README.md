@@ -1,6 +1,6 @@
 # TAFT Setup, Training, and Evaluation Guide
 
-This README provides a detailed guide on how to configure, set up, train, and evaluate the TAFT models. The models of TAFT were trained and evaluated using 8 A100 Nvidia GPUs. Due to several mode
+This README provides a detailed guide on how to configure, set up, train, and evaluate the TAFT models. The models of TAFT were trained and evaluated using 8 A100 Nvidia GPUs. 
 
 ## Prerequisites
 
