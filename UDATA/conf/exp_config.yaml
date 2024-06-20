@@ -1,0 +1,5 @@
+dataset: sygus
+mapping_method: sim
+mapping_features:
+  - jaccard
+with_flashfill: False
